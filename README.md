@@ -172,10 +172,6 @@ NEXT_PUBLIC_SIGNALING_URL=http://localhost:3001
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is open-sourced software licensed under the [MIT license](LICENSE).
-
 ## Contact
 
-For any questions or support, please contact [your-email@example.com].
+For any questions or support, please contact marespdd@gmail.com.
